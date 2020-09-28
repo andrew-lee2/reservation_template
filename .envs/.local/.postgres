@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=reservation_template
+POSTGRES_USER=ycKbIpnKIpPwAVDXemsojwLJqfYPJaGp
+POSTGRES_PASSWORD=m6SuGaF2NjQtk4H498j75XOEj8kvopaFBGJ7nW7AaxcOPUi3Rkji3zwXxm2ZdD2P
